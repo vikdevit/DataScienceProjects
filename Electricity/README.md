@@ -2,9 +2,8 @@
 This project aims to plot imbalance prices of Japanese electricity market using data store in a CSV file.
 After cleaning and exploring data, dataframes will be created to get :
 
--Imbalance prices for Tokyo region across 2022-2024 period
-
--Descriptive statistics for the same region and period
+- Imbalance prices for Tokyo region across 2022-2024 period
+- Descriptive statistics for the same region and period
 
 This repository contains the whole script written in Python as well as graphs obtained when running the program and giving aforementioned information.
 File names of the script and graphs are listed below:
