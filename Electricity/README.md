@@ -7,6 +7,9 @@ After cleaning and exploring data, dataframes will be created to get :
 -Descriptive statistics for the same region and period
 
 This repository contains the whole script written in Python as well as graphs obtained when running the program and giving aforementioned information.
+File names of the script and graphs are listed below:
+- JapTokElecIbp.py
+- 
 
 # Data source
 CSV file was downloaded from Kaggle website and can be obtained using the url below:
