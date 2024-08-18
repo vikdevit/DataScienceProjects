@@ -9,7 +9,8 @@ After cleaning and exploring data, dataframes will be created to get :
 This repository contains the whole script written in Python as well as graphs obtained when running the program and giving aforementioned information.
 File names of the script and graphs are listed below:
 - JapTokElecIbp.py
-- 
+- Tok_Ibp_032022_To_082024 for imbalance prices
+- Tok_Ibp_Destats_032022_To_082024 for descriptive statistics
 
 # Data source
 CSV file was downloaded from Kaggle website and can be obtained using the url below:
